@@ -1,0 +1,8 @@
+{
+  "name": "react-admin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:SuMing777/react-admin.git",
+  "author": "SuMing777 <15010772645@163.com>",
+  "license": "MIT"
+}
