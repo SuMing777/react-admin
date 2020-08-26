@@ -1,0 +1,22 @@
+.container{
+  display:flex;
+  width:100vw;
+  min-height:100vh;
+  .sider{
+    background-color: #001529;
+    color:#ffffff;
+    width:15%;
+    min-width:180px;
+    height:100%;
+  }
+  .main{
+    height:calc(100vh);
+    background:#f1f3f5;
+    overflow: auto;
+  }
+  .content{
+    position:relative;
+    width:100vw;
+    min-height:100vh;
+  }
+}
